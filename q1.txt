@@ -1,0 +1,1 @@
+I am taking DATA602 to explore Data Science and gain hands-on experience working with different types of data, transforming them into meaningful insights. In doing so, I hope to prepare myself to tackle real-world data science challenges.
